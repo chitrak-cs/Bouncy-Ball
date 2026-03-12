@@ -1,0 +1,12 @@
+# Ignore executables
+*.exe
+*.dll
+*.out
+*.o
+
+# Build folders
+build/
+bin/
+
+# Temporary files
+*.log
